@@ -1,4 +1,4 @@
-# 🚀 Reddit Lead Generation Agent (First Motion MVP)
+# 🚀 Reddit Lead Generation Agent
 
 An automated lead discovery tool designed to scan Reddit for high-intent keywords, classify them using OpenAI, and push qualified opportunities directly to an Airtable CRM.
 
